@@ -15,3 +15,8 @@ The features include
 - create  rooms
 - join rooms 
 - send messages
+
+
+## For Contribution 
+
+You can fork the repo and dont forget to give a star
