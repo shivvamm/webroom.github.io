@@ -19,4 +19,4 @@ The features include
 
 ## For Contribution 
 
-You can fork the repo and dont forget to give a star
+You can fork the repo and don't forget to give a star
